@@ -303,7 +303,7 @@ async function bloghandle(request) {
 			</div>
 			<div class="row">
 				<div class="col-sm-12">
-                <p>因缓存原因，延迟严重，计划修复</p>
+                // <p>因缓存原因，延迟严重，计划修复</p>
 				<p>Powered by CloudFlare Workers | <a href="https://github.com/sfc9982/BlogDyna-on-Edge" target="_blank">Github</a></p>
 				<p>&copy; 2021 ${default_intitle}</p>
 				<br><br>
